@@ -1,0 +1,28 @@
+.body{
+   background-color: rgb(127, 214, 214);
+}
+.nube{
+  margin-top: 5%;
+  margin-left: -39%;
+  animation-name: nube;
+  animation-duration: 9s;
+  animation-iteration-count: infinite;
+}
+.nube-2{
+ margin-top: 3%;
+ margin-left: -26%;
+ animation-name: nube-2;
+ animation-duration: 7s;
+ animation-iteration-count: infinite;
+}
+.nubenegra{
+
+}
+@keyframes nube {
+    from{margin-left: -20%;}
+    to{margin-left:  110%;}
+}
+@keyframes nube-2{
+    from{margin-left: -17%;}
+    to{margin-left:125% ;}
+}

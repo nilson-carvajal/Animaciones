@@ -1,0 +1,40 @@
+.body {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 6rem;
+    background: #161e25;
+    text-align: center;
+}
+
+.U {
+    color: aqua;
+    margin-left: 60px;
+    
+}
+
+.P {
+    color: aqua;
+    margin-right: 50px;
+}
+
+.Y {
+    color: aqua;
+    
+}
+
+.O {
+    color: aqua;
+    margin-left: 50px;
+}
+
+.V {
+    color: aqua;
+}
+
+.E {
+    color: aqua;
+}
+
+.R {
+    color: aqua;
+    margin-right: 30px;
+}
